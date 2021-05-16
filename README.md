@@ -1,7 +1,7 @@
 ### 👋  Welcome To My Github <a href="https://github.com/curtild/SQLPractice/"><em>SQLPractice</em></a> Repository!
 
 #### What's In This Repository?
-#### This repository contains my SQL projects. I hope to share what I know, while learning from others. 
+#### This repository contains my SQL projects. I hope to share what I know, and learn from others. 
 
 #### Why SQL?
 #### To be honest, most database management systems use SQL to access and manipulate data. To analyze data well, we need to know SQL. And, unless NoSQL takes over the market, SQL will be around for the forseeable future. 
