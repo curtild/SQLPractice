@@ -4,7 +4,7 @@ Author:
 Report:			
 	N/A
 Date:			
-	February 2018
+	Feb 2018
 Purpose:		
 	SQL Challenge - Beginner
 Design Tool:	
