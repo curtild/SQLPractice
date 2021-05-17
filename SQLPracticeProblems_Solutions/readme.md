@@ -8,3 +8,5 @@
 #### I <em> do not</em> endorse any particular author, nor attempt to push book sales, but I thought the challenges in this book were sort of fun. So, I've placed my solutions to the book's challenges here. 
 
 #### If you have access to the book and its customized Northwind database, and you've coded differently than me to get the same results, I'd like to hear from you! I'm always excited to learn better ways of doing things. 
+
+#### If you'd like, come join the <a href="https://github.com/curtild/SQLPractice/discussions/2">discussion</a>.
