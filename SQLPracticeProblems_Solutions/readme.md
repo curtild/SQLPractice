@@ -1,4 +1,4 @@
-### 👋  Welcome To My Github <a href="https://github.com/curtild/SQLPractice/tree/main/SQLPracticeProblems_Solutions"><em>SQLPractice Problems</em></a> Repository!
+### 👋  Welcome To My Github <a href="https://github.com/curtild/SQLPractice/tree/main/SQLPracticeProblems_Solutions"><em>SQLPractice</em></a> Repository!
 
 #### <em>Challenge Accepted!</em> 
 #### Some time ago, a friend of mine called to convince me to take a SQL challenge. At that time, word began to spread about a book with beginner-to-advanced SQL challenges, so we both bought our Kindle editions. 
