@@ -6,7 +6,7 @@ Report:
 Date:			
 	Feb 2018
 Purpose:		
-	SQL Challenge - Beginner
+	T-SQL Challenge - Beginner
 Design Tool:	
 	SSMS
 DBMS:			
