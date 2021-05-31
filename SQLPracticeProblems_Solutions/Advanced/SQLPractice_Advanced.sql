@@ -6,7 +6,7 @@ Report:
 Date:			
 	Feb 2018
 Purpose:		
-	SQL Challenge - Advanced
+	T-SQL Challenge - Advanced
 Design Tool:	
 	SSMS
 DBMS:			
