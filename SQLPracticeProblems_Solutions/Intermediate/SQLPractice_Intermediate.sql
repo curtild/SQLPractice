@@ -6,7 +6,7 @@ Report:
 Date:			
 	Feb 2018
 Purpose:		
-	SQL Challenge - Intermediate
+	T-SQL Challenge - Intermediate
 Design Tool:	
 	SSMS
 DBMS:			
