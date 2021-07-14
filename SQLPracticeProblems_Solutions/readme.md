@@ -1,4 +1,4 @@
-### 👋  Welcome To My Github Repo for <a href="https://github.com/curtild/SQLPractice/tree/main/SQLPracticeProblems_Solutions"><em>SQLPractice Problems</em></a> and Solutions!
+### 👋  Welcome To My Github Repo for <a href="https://github.com/curtild/SQLPractice/tree/main/SQLPracticeProblems_Solutions"><em>SQL Practice Problems</em></a> and Solutions!
 
 ### A T-SQL Challenge
 #### (<em>Challenge Accepted!</em>) 
