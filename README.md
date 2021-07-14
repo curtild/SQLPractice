@@ -1,4 +1,4 @@
-### 👋  Welcome To My Github <a href="https://github.com/curtild/SQLPractice/"><em>SQLPractice</em></a> Repository!
+### 👋  Welcome To My Github <a href="https://github.com/curtild/SQLPractice/"><em>SQL Practice</em></a> Repository!
 
 This repository contains my SQL projects. I hope to share what I know, and learn from others. 
 
